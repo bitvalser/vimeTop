@@ -1,4 +1,4 @@
-package com.vimetop;
+package com.bitvalser.vimetop;
 
 import com.facebook.react.ReactActivity;
 
